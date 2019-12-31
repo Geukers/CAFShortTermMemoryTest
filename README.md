@@ -1,8 +1,8 @@
 # CAFShortTermMemoryTest
 Short Term Memory Test used by the Canadian Air Force to select pilots
 
-<b>To play this game, go to CAFShortTermMemoryTest/dist/Main/Main.exe
-The file "Main.exe" was created using pyinstaller</b>
+<b>To play this game, go to CAFShortTermMemoryTest/dist/Main/Main.exe</b>
+The file "Main.exe" was created using pyinstaller
 
 If you want to modify this script,
 install PyCharm Community on your computer,
